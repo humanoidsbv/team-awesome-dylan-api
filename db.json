@@ -1,0 +1,63 @@
+{
+  "time-entries": [
+    {
+      "client": 0.6524250995148186,
+      "id": 0.8524250995148186,
+      "startTimestamp": "2019-09-23T16:00:00.000Z",
+      "stopTimestamp": "2019-09-23T18:00:00.000Z"
+    },
+    {
+      "client": 0.6524250995148186,
+      "id": 0.6524250995148186,
+      "startTimestamp": "2019-09-23T07:00:00.000Z",
+      "stopTimestamp": "2019-09-23T15:00:00.000Z"
+    },
+    {
+      "client": 0.68,
+      "id": 0.9733595823073156,
+      "startTimestamp": "2019-10-07T07:00:00.000Z",
+      "stopTimestamp": "2019-10-07T15:00:00.000Z"
+    }
+  ],
+  "team-members": [
+    {
+      "firstName": "Antje",
+      "lastName": "Adriaens",
+      "id": 0.6524250995148186,
+      "employeeFunction": "UX Designer",
+      "employeeNumber": "HUM_001",
+      "currentClient": "Hike One",
+      "startingDate": "2019-09-23T07:00:00.000Z",
+      "emailAddress": "antje.adriaens@humanoids.nl",
+      "address": "Waldorpstraat 2",
+      "postalCode": "2521CJ",
+      "locality": "Den Haag"
+    },
+    {
+      "address": "Aziëlaan 306",
+      "bio": "Lang verhaal",
+      "currentClient": "Port of Rotterdam",
+      "emailAddress": "dylan.jongbloed@humanoids.nl",
+      "employeeNumber": "HUM_002",
+      "employeeFunction": "Front-End Developer",
+      "firstName": "Dylan",
+      "id": 0.3016306143529046,
+      "lastName": "Jongbloed",
+      "locality": "Utrecht",
+      "postalCode": "3526SK",
+      "socialProfileOne": "facebook.com/dylanjongbloed",
+      "socialProfileTwo": "linkedin.com/dylanjongbloed",
+      "startingDate": "2019-10-08"
+    }
+  ],
+  "clients": [
+    {
+      "name": "Hike One",
+      "id": 0.6524250995148186
+    },
+    {
+      "name": "Port of Rotterdam",
+      "id": 0.68
+    }
+  ]
+}
