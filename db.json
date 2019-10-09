@@ -1,22 +1,10 @@
 {
   "time-entries": [
     {
-      "client": 0.6524250995148186,
+      "client": 0.3494304094767793,
       "id": 0.8524250995148186,
       "startTimestamp": "2019-09-23T16:00:00.000Z",
       "stopTimestamp": "2019-09-23T18:00:00.000Z"
-    },
-    {
-      "client": 0.6524250995148186,
-      "id": 0.6524250995148186,
-      "startTimestamp": "2019-09-23T07:00:00.000Z",
-      "stopTimestamp": "2019-09-23T15:00:00.000Z"
-    },
-    {
-      "client": 0.68,
-      "id": 0.9733595823073156,
-      "startTimestamp": "2019-10-07T07:00:00.000Z",
-      "stopTimestamp": "2019-10-07T15:00:00.000Z"
     }
   ],
   "team-members": [
@@ -48,16 +36,60 @@
       "socialProfileOne": "facebook.com/dylanjongbloed",
       "socialProfileTwo": "linkedin.com/dylanjongbloed",
       "startingDate": "2019-10-08"
+    },
+    {
+      "address": "asdgasdg",
+      "bio": "asdgasdg",
+      "currentClient": "To be confirmed",
+      "emailAddress": "adsgdsg",
+      "employeeNumber": "To be confirmed",
+      "employeeFunction": "To be confirmed",
+      "firstName": "Sebas",
+      "id": 0.893144976145726,
+      "lastName": "Remi",
+      "locality": "asd",
+      "postalCode": "asdg",
+      "socialProfileOne": "asdgasd",
+      "socialProfileTwo": "asdgasd",
+      "startingDate": "2019-10-08"
+    },
+    {
+      "address": "Test2",
+      "bio": "Test2",
+      "currentClient": "To be confirmed",
+      "emailAddress": "Test2",
+      "employeeNumber": "To be confirmed",
+      "employeeFunction": "To be confirmed",
+      "firstName": "Test2",
+      "id": 0.6931274561312333,
+      "lastName": "Test2",
+      "locality": "Test2",
+      "postalCode": "Test2",
+      "socialProfileOne": "Test2",
+      "socialProfileTwo": "Test2",
+      "startingDate": "2019-10-09"
     }
   ],
   "clients": [
     {
-      "name": "Hike One",
-      "id": 0.6524250995148186
+      "clientName": "Test",
+      "branch": "Test",
+      "address": "Test",
+      "id": 0.3494304094767793,
+      "locality": "Test",
+      "postalCode": "Test",
+      "contactPerson": "Test",
+      "contactPhoneNumber": "Test"
     },
     {
-      "name": "Port of Rotterdam",
-      "id": 0.68
+      "clientName": "hallotest",
+      "branch": "hallotest",
+      "address": "hallotest",
+      "id": 0.5877349716692368,
+      "locality": "hallotest",
+      "postalCode": "hallotest",
+      "contactPerson": "hallotest",
+      "contactPhoneNumber": "hallotest"
     }
   ]
 }
